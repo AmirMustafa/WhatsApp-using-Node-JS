@@ -76,6 +76,6 @@ client.initialize();
 ```
 
 ## Reference:
-
+https://guide.wwebjs.dev/
 
 
