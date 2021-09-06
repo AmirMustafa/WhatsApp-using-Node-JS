@@ -76,6 +76,7 @@ client.initialize();
 ```
 
 ## Reference:
+https://amirmustafaofficial.medium.com/sending-automatic-whatsapp-messages-using-javascript-9860ba96d486
 https://guide.wwebjs.dev/
 
 
